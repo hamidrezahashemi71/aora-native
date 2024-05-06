@@ -47,7 +47,7 @@ const SignIn = () => {
                         className='w-[115px] h-[35px]'
                     />
                     <Text className='text-2xl text-white font-semibold mt-10 font-psemibold'>
-                        Log in to Aora
+                        Login to Aora
                     </Text>
                     {forms.map(form => (
                         <FormField
